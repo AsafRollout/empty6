@@ -1,0 +1,8 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: flag 1
+labels:
+  - lbl1
+  - archived
+flag: flag1
+value: false
